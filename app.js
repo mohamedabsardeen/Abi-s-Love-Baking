@@ -9,7 +9,7 @@
 // Top-level CONFIG object - easily editable by Abi
 const CONFIG = {
   SHEET_URL: "https://script.google.com/macros/s/AKfycbyp97ZqF9h6OM-l1qfUHyN74D3vjIc3wAQLR9CaGfmQl9cYr8-CkXz2EZZOfl9FZwlgTg/exec", // Paste your Google Apps Script Web App URL here (e.g., "https://script.google.com/macros/s/.../exec")
-  WHATSAPP: "917604989498", // WhatsApp number with country code, no "+" or spaces
+  WHATSAPP: "919500217855", // WhatsApp number with country code, no "+" or spaces
   WHATSAPP_DISPLAY: "+91 7604 989 498",
   EMAIL: "abislove88@gmail.com",
   INSTAGRAM: "@abislove2026",
