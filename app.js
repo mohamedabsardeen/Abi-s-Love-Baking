@@ -246,7 +246,7 @@ const ITEMS = [
     category: "indian-sweets",
     tag: "Special",
     description: "Cardamom & saffron infused milk sponge layered with genuine juicy rasmalai, pistachio flakes and rose petals.",
-    img: "images/badhaam-cake.jpg",
+    img: "images/rasamalai-cake.jpg",
     defaultPieces: 0,
     defaultKg: 1
   },
